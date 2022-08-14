@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dabby-dabbs
-- 👀 I’m interested in Front-End Dev, React.js, Coding, Series and Movie Reviews.
+- 👀 I’m interested in Front-End Dev, React.js, Series and Movie Reviews.
 - 🌱 I’m currently pursuing my BTech in Amrita Vishwa Vidyapeetam - Coimbatore.
 - 💞️ I’m looking to collaborate on Front-End Dev role in any company.
 - 📫 How to reach me via 
