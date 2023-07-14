@@ -1,5 +1,5 @@
 <p align="center">
-    ![Dabby Dabbs](https://github.com/dabby-dabbs/dabby-dabbs/blob/main/Black%20and%20White%2C%20Digital%20Glitch%20Gamer%20Animation%20Logo.gif)
+    ![Dabby Dabbs] (https://github.com/dabby-dabbs/dabby-dabbs/blob/main/Black%20and%20White%2C%20Digital%20Glitch%20Gamer%20Animation%20Logo.gif)
 </p>
 
 <p align="center">
