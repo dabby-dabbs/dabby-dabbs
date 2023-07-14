@@ -1,4 +1,4 @@
-![Dabby Dabbs](https://raw.githubusercontent.com/dabby-dabbs/dabby-dabbs/master/images/Your-Image-Name.svg)
+![Dabby Dabbs](https://github.com/dabby-dabbs/dabby-dabbs/blob/main/Black%20and%20White%2C%20Digital%20Glitch%20Gamer%20Animation%20Logo.gif)
 
 <p align="center">
     <a href="https://github.com/dabby-dabbs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@dabby--dabbs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
