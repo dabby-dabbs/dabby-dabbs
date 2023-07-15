@@ -1,35 +1,22 @@
-![Dabby Dabbs](https://github.com/dabby-dabbs/dabby-dabbs/blob/main/Black%20and%20White%2C%20Digital%20Glitch%20Gamer%20Animation%20Logo.gif)
+<h1 align="center">Hi 👋, I'm Harsha Dabbara</h1>
+<h3 align="center">AI | ML Student Amrita School Of Artificial Intelligence</h3>
 
-<p align="center">
-    <a href="https://github.com/dabby-dabbs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@dabby--dabbs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.your-website.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-1e87f0?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://your-other-social-media-profile" target="_blank"><img alt="Social Media" src="https://img.shields.io/badge/-Social%20Media-000000?style=flat-square&logo=your-social-media-icon&logoColor=white"></a>
+- 🔭 I’m currently working on **Generative AI & Large Language Models**
+
+- 🌱 I’m currently learning **LLMs, Cloud Computing Essentials.**
+
+- 👯 I’m looking to collaborate on **Data Science and AI|ML Intern Roles**
+
+- 👨‍💻 All of my projects are available at [https://github.com/dabby-dabbs?tab=repositories](https://github.com/dabby-dabbs?tab=repositories)
+
+- 📫 How to reach me **dabbaraharsha@gmail.com**
+
+- ⚡ Fun fact **"Did you know that AI algorithms can now generate realistic human-like text? With advancements in natural language processing, AI models like GPT-3 have been able to produce coherent and contextually relevant sentences, revolutionizing the field of automated content generation."**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshadabbara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshadabbara" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/dabby-dabbs?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/dabby-dabbs?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/dabby-dabbs?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/dabby-dabbs?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/dabby-dabbs?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/dabby-dabbs?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/dabby-dabbs?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/dabby-dabbs?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/github/followers/dabby-dabbs?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/dabby-dabbs" target="_blank"><img alt="dabby-dabbs" src="https://badges.pufler.dev/visits/dabby-dabbs/dabby-dabbs?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/dabby-dabbs" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/dabby-dabbs/dabby-dabbs?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/dabby-dabbs/dabby-dabbs" target="_blank"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dabby-dabbs/dabby-dabbs?label=profile%20updated&style=flat-square"></a>
-</p>
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dabby-dabbs&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabby-dabbs&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-</p>
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
