@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harsha Dabbara</h1>
 <h3 align="center">AI | ML Student Amrita School Of Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on **Generative AI & Large Language Models**
+- 🔭 I’m currently pursuing my "Bachelor's" in Artificial Intelligence **Amrita Vishwa Vidyapeetham Coimbatore**
 
-- 🌱 I’m currently learning **LLMs, Cloud Computing Essentials.**
+- 🌱 I’m currently learning **LLMs, Generative AI, Cloud Computing Essentials.**
 
 - 👯 I’m looking to collaborate on **Data Science and AI|ML Intern Roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dabby-dabbs?tab=repositories](https://github.com/dabby-dabbs?tab=repositories)
 
 - 📫 How to reach me **dabbaraharsha@gmail.com**
+
+- 📄 Know about my experiences [https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cb_en_u4aie20010_cb_students_amrita_edu/EfH6-JD_a2JKkSmazGO35YAB7TwGdEFS5a74-iYAazOZCA?e=GTNMPN](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cb_en_u4aie20010_cb_students_amrita_edu/EfH6-JD_a2JKkSmazGO35YAB7TwGdEFS5a74-iYAazOZCA?e=GTNMPN)
 
 - ⚡ Fun fact **"Did you know that AI algorithms can now generate realistic human-like text? With advancements in natural language processing, AI models like GPT-3 have been able to produce coherent and contextually relevant sentences, revolutionizing the field of automated content generation."**
 
